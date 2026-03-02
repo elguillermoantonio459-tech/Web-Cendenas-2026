@@ -29,7 +29,7 @@
             margin: 0 auto;
         }
         .logo img {
-            width: 100%;
+            width: 50%;
             height: auto;
         }
         .section {
