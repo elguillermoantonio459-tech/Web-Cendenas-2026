@@ -94,7 +94,7 @@ No somos solo un equipo que entrena y compite; somos una familia que se impulsa,
         <div class="section">
             <h2>Galería de Imágenes</h2>
             <div class="gallery">
-                <img src="Fotos/Foto 1.jpg" alt="Entrenamiento">
+                <img src="Foto 1.jpg" alt="Entrenamiento">
                 <img src="Fotos/Foto 7.jpg" alt="Partido">
                 <img src="Fotos/Foto 2.jpg" alt="Equipo Unido">
                 <img src="Fotos/Foto 3.jpg" alt="Cancha">
