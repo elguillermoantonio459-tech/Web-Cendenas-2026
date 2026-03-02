@@ -25,8 +25,8 @@
             border-radius: 50%;
             border: 5px solid black;
             overflow: hidden;
-            width: 150px;
-            height: 150px;
+            width: 50px;
+            height: 50px;
             margin: 0 auto;
         }
         .logo img {
