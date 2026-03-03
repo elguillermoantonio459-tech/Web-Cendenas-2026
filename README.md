@@ -84,7 +84,7 @@
             <h2>Información del Club</h2>
             <p>El club está bajo la dirección del Presidente y Profesor Antonio Narváez, quien con liderazgo, compromiso y pasión guía cada paso que damos.
 
-Aquí valoramos mucho más que el talento deportivo: fomentamos la disciplina, el trabajo en equipo, el respeto y el esfuerzo constante. Creemos en la constancia diaria, en el apoyo mutuo y en la importancia de crecer tanto dentro como fuera del campo.
+Aquí valoramos mucho más que el talento deportivo: fomentamos la disciplina, el trabajo en equipo, el respeto y el esfuerzo constante. Creemos en la constancia diaria, en el apoyo mutuo y en la importancia de crecer tanto dentro como fuera de cancha.
 
 No somos solo un equipo que entrena y compite; somos una familia que se impulsa, se respeta y celebra cada logro junto a sus integrantes. Aquí cada atleta cuenta, cada esfuerzo suma y cada meta se conquista unidos.
 
